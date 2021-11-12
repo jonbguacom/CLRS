@@ -1,12 +1,12 @@
 # Project information
 site_name: CLRS Solutions
 site_description: Solutions to Introduction to Algorithms Third Edition. CLRS Solutions. The textbook that a Computer Science (CS) student must read.
-site_author: Peng-Yu Chen
-site_url: https://walkccc.me/CLRS
+site_author: Peng-Yu Chen & Jonbgua
+site_url: https://clrs.note.jonbgua.com
 
 # Repository
-repo_name: walkccc/CLRS
-repo_url: https://github.com/walkccc/CLRS
+repo_name: jonbguacom/CLRS
+repo_url: https://github.com/jonbguacom/CLRS
 
 # Copyright
 copyright: Built by <a href="http://github.com/walkccc">Peng-Yu Chen</a> &copy; 2017 - 2021
